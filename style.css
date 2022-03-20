@@ -1,0 +1,57 @@
+body{
+    background-color: #ccc;
+    background-image: url(https://st.depositphotos.com/1727324/2202/i/950/depositphotos_22027999-stock-photo-white-texture-wall-background-with.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title, .subtitle, .post_title {
+    color: rgb(40, 26, 235);
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+}
+
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a{
+    color: black;
+}
+
+.post{
+    fo
+    background-color: #ccc;
+    padding: 10px;
+    border: 3px black ;
+}
+
+.post_content{
+    margin: 0px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.perfilimg{
+    border: black;
+border-radius: 105px;
+size-adjust: 10px;
+width: 200px;
+}
+
+.postimg{
+    margin-bottom: 15px;
+    max-width: 900px;
+}
+
+.rodape{
+color: slategray;
+font-size: xx-small;
+
+}
+
